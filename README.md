@@ -1,4 +1,3 @@
-Para criar um README profissional e organizado no seu GitHub, você pode utilizar a estrutura abaixo. Ela reflete exatamente o cruzamento das suas habilidades reais com o guia da atividade.
 ---
 
 # Mapa de Habilidades - [Bia] 🚀
